@@ -23,9 +23,10 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@drawable/maldivi"
+        app:srcCompat="@drawable/maldives"
         android:layout_below="@+id/textView3"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="100dp"
-        android:id="@+id/imageView3" />
+        android:id="@+id/imageView4" />
+
 </RelativeLayout>
